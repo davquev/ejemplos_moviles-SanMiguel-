@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppLibreriaRoom</string>
+    <string name="hint_nombre">nombre</string>
+    <string name="hint_telefono">telefono</string>
+    <string name="it_grabar">grabar</string>
+    <string name="it_borrar">borrar</string>
+</resources>
